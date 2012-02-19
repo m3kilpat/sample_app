@@ -24,6 +24,7 @@ gem 'jquery-rails'
 group :development do
   gem 'sqlite3'
   gem 'rspec-rails'
+  gem 'pg'
 end
 
 group :test do
